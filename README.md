@@ -5,7 +5,7 @@ Tech I use: <br />
 1. Javascript - NextJS, ReactJS, NodeJS, Express <br />
 2. MongoDB, SQL <br />
 3. Python - common libraries: Flask, OpenCV, Beautifulsoup, SQLite, Sys, Os, Numpy. <br />
-4. C# - .NET MAUI 
+4. C# - .NET MAUI, ASP.NET
 
 🔭 I’m currently working on:  <br />
 1. A personal time tracker that tracks everything I do on my laptop - with a sleek UI that lets me mark whether an activity was productive or not <br />
